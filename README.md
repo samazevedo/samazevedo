@@ -1,5 +1,9 @@
 ### Hi there 👋
 Welcome.
+I am Samuel Azevedo, Front-end Developer & Design.
+😄 Pronouns: He / Him
+🌱 I’m currently learning Typescript & React.
+🔭 I’m currently working on bulding my portfolio.
 <!--
 **samazevedo/samazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samazevedo)](https://github.com/anuraghazra/github-readme-stats)
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true)
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samazevedo&show_icons=true)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samazevedo&show_icons=true&theme=radical&count_private=true)
 
