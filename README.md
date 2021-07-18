@@ -1,9 +1,9 @@
 ### Hi there 👋
 Welcome.
-I am Samuel Azevedo, Front-end Developer & Design.
-😄 Pronouns: He / Him
-🌱 I’m currently learning Typescript & React.
-🔭 I’m currently working on bulding my portfolio.
+I am Samuel Azevedo, Front-end Developer & Design from Sao Paulo - Brazil.<br/>
+😄 Pronouns: He / Him <br/>
+🌱 I’m currently learning Typescript & React. <br/>
+🔭 I’m currently working on bulding my portfolio.<br/>
 <!--
 **samazevedo/samazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
