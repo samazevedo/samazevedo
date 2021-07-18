@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome.
-I am Samuel Azevedo, Front-end Developer & Design from Sao Paulo - Brazil.<br/>
+I am Samuel Azevedo, Front-end Developer & Graphic Design from Sao Paulo - Brazil.<br/>
 😄 Pronouns: He / Him <br/>
 🌱 I’m currently learning Typescript & React. <br/>
 🔭 I’m currently working  my portfolio.<br/>
