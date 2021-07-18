@@ -3,7 +3,7 @@ Welcome.
 I am Samuel Azevedo, Front-end Developer & Graphic Design from Sao Paulo - Brazil.<br/>
 😄 Pronouns: He / Him <br/>
 🌱 I’m currently learning Typescript & React. <br/>
-🔭 I’m currently working  my portfolio.<br/>
+🔭 I’m currently working on my portfolio.<br/>
 <!--
 **samazevedo/samazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
