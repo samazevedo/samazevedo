@@ -1,9 +1,4 @@
 ### Hi there 👋
-Welcome.
-I'm Samuel Azevedo, Front End Web Developer | Designer based in Sao Paulo - Brazil.<br/>
-😄 Pronouns: He / Him <br/>
-🌱 I’m currently learning Typescript & React and also building up my portfolio<br/>
-⚡ Fun fact: I need some coffee now.
 
 
 ## Tech Stack
@@ -17,7 +12,7 @@ I'm Samuel Azevedo, Front End Web Developer | Designer based in Sao Paulo - Braz
 
 
 ## Contact Me @
-<a href="mailto:samuel.azevedo@live.com"><img src="https://img.shields.io/badge/samuel.azevedo@live.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a> <a href="https://www.linkedin.com/in/samuel-azevedo-santos-908a5b53/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=FFFFFF" /></a>
+<a href="mailto:samuel.azevedo@live.com"><img src="https://img.shields.io/badge/samuel.azevedo-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a> <a href="https://www.linkedin.com/in/samuel-azevedo-santos-908a5b53/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=FFFFFF" /></a>
 
 <!--
 **samazevedo/samazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +28,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samazevedo&show_icons=true&theme=merko&count_private=true) 
+![Sam's GitHub stats]
+
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" />
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samazevedo&langs_count=3&hide_title=true&hide_border=true" />
+</a>
+
+
+
+
+
+<!-- (https://github-readme-stats.vercel.app/api?username=samazevedo&show_icons=true&theme=merko&count_private=true)  -->
 
