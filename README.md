@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samazevedo&langs_count=5&hide_title=true&hide_border=true" />
+  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" />
+   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samazevedo&langs_count=5&hide_title=true&hide_border=true" />
 </a>
+ 
+
 
 
 
