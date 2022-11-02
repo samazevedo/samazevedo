@@ -1,7 +1,11 @@
-### Hi there , Welcome.👋 
-# Sam Azevedo  He/Him.
-- Front-end Web Developer
 
+### Hi there , Welcome.👋 
+- Front-end Web Developer
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" />
+   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samazevedo&langs_count=5&hide_title=true&hide_border=true&layout=compact&theme=merko" />
+</a>
+ 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
@@ -30,11 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=samazevedo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" />
-   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samazevedo&langs_count=5&hide_title=true&hide_border=true&layout=compact" />
-</a>
- 
+
 
 
 
