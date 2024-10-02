@@ -13,7 +13,8 @@
 </a>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css, sass, tailwind, js,ts,react, redux, nextjs, threejs, nodejsbootstrap, bun, c,express,figma,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,threejs,nodejs,bootstrap,bun,c,express,figma,mongodb&perline=6)](https://skillicons.dev)
+
 
 
 ## Contact Me @
