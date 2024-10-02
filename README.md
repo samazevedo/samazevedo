@@ -13,13 +13,7 @@
 </a>
 
 ## Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-e2e2e2?style=flat-square&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css, sass, tailwind, js,ts,react, redux, nextjs, threejs, nodejsbootstrap, bun, c,express,figma,mongodb,)](https://skillicons.dev)
 
 
 ## Contact Me @
